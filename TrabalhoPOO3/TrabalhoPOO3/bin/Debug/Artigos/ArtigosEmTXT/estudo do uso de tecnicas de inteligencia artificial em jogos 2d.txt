@@ -1,0 +1,14 @@
+﻿Estudo do Uso de Técnicas de Inteligência Artificial em Jogos 2D
+
+
+Autores: Soraia Teixeira Barbosa, Janaína Veiga, Carlos Vitor de Alencar Carvalho
+
+
+Filiação Acadêmica: Universidade Severino Sombra
+
+
+RESUMO:
+A Inteligência Artificial (IA) serve como um recurso para promover uma interação mais “convincente” nos jogos, sendo, em jogos mais complexos, um elemento chave. A IA pode ser encontrada em todos os tipos de jogos, desde os mais simples, como damas e xadrez, até os mais complexos, como RPGs online e simuladores. Com a vinda de empresas de jogos eletrônicos para o Brasil, novas oportunidades vêm surgindo para os interessados no desenvolvimento de jogos e com isso o número de estudantes interessados no assunto aumentou consideravelmente. Neste artigo será apresentado um estudo sobre sistemas especialistas  aplicados  em  jogos,  tomando  como  exemplo  um  sistema  de batalhas em um jogo de RPG. Todo o código desenvolvido está disponibilizado em um endereço eletrônico para servir como objeto de estudo para estudantes da área, professores e pessoas em busca de conhecimento sobre o assunto.
+
+
+PALAVRAS-CHAVE: Máquina de estados finita, Sistema baseado em regras, Inteligência Artificial, Jogos.

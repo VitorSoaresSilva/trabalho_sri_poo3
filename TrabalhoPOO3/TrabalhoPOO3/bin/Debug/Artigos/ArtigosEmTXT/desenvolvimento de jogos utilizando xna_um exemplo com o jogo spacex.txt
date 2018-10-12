@@ -1,0 +1,14 @@
+﻿Desenvolvimento de jogos utilizando XNA: um exemplo com o jogo spaceX
+
+
+Autores: Joni Pereira de Pinho Rodrigues da Silva, Janaína Veiga, Carlos Vitor de Alencar Carvalho
+
+
+Filiação Acadêmica: Universidade Severino Sombra
+
+
+RESUMO:
+A área de jogos eletrônicos tem crescido cada vez mais. Pode-se, nos dias atuais, encontrar jogos em diversos dispositivos: computadores pessoais, consoles domésticos e dispositivos móveis. O desenvolvimento de um jogo não é uma tarefa fácil, pois envolve diversas áreas de conhecimento  e também diversas subáreas da computação. A área de desenvolvimento de jogos desperta muita  curiosidade e interesse em muitos programadores, entretanto a maioria das instituições de ensino superior com cursos na área de computação não apresentam o foco ou disciplinas específicas para o desenvolvimento de jogos, principalmente em Curso de Sistemas de Informação. Esta foi uma das  motivações para o desenvolvimento deste trabalho. Este artigo apresenta o framework XNA e as suas principais funcionalidades para desenvolvimento de jogos eletrônicos interativos. Como resultado e exemplificação o artigo também apresenta o desenvolvimento de um jogo 2D, chamado SpaceX. 
+
+
+PALAVRAS-CHAVE: Framework XNA, Jogos Eletrônicos.

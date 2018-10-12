@@ -1,0 +1,14 @@
+﻿Desenvolvimento De Jogos Eletrônicos Um estudo relacional entre gerenciamento de escopo e custos de desenvolvimento
+
+
+Autores: Vania Gabriella Balista
+
+
+Filiação Acadêmica: FAESA
+
+
+RESUMO:
+O presente estudo busca analisar a relação entre gerenciamento de escopo e custo em projetos de jogos eletrônicos no mercado brasileiro. Para isso, utilizou-se como metodologia uma  pesquisa exploratória sobre o desenvolvimento de jogos eletrônicos, suas categorizações, atividades envolvidas na produção e sobre a situação em que se encontra esse mercado no Brasil. Na sequência, segue-se a pesquisa exploratória sobre o processo de gerenciamento de projetos com foco nas áreas de gerenciamento de escopo e gerenciamento de custos do projeto, seguida por um estudo sobre gestão estratégica de custos e métodos de custeio. Por fim, para levantamento de dados foi aplicado um questionário a profissionais da área. Os dados obtidos na pesquisa foram tratados utilizando abordagem quantitativa e através deles foi elaborado um infográfico que identifica a distribuição de custos nas diversas atividades envolvidas no processo de desenvolvimento de jogos.
+
+
+PALAVRAS-CHAVE: Desenvolvimento de jogos, Gerenciamento de escopo, Custos, Infográfico.

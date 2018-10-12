@@ -1,0 +1,14 @@
+﻿QUANDO JOGO ATÉ ME ESQUEÇO DAS DORES Jogos digitais como estratégia para a reabilitação física
+
+
+Autores: Tânia Ribeiro, Ana Isabel Veloso, Liliana Costa
+
+
+Filiação Acadêmica: Universidade de Aveiro
+
+
+RESUMO:
+Não é recente a ideia de recorrer aos jogos digitais como ferramenta de apoio à reabilitação física de pacientes. As causas que afetam a mobilidade física podem ser várias desde Acidentes Vasculares Cerebrais, o envelhecimento ou traumas causados por incidentes. Neste artigo são alvo de análise e discussão jogos digitais e sistemas digitais gamificados que promovem a realização de atividade física como forma de fisioterapia de diversas patologias. O artigo pretende ainda discutir e enquadrar um conjunto de recomendações que devem ser consideradas no desenvolvimento de jogos digitais desta natureza.
+
+
+PALAVRAS-CHAVE: Jogos Digitais, Reabilitação física, gameficação, Interação humano-computador.
