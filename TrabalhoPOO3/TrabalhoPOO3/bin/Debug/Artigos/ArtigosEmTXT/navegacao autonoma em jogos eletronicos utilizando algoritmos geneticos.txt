@@ -1,14 +1,27 @@
-﻿Navegação Autônoma em jogos eletrônicos utilizando algoritmos genéticos
+﻿Titulo:
+Navegação Autônoma em jogos eletrônicos utilizando algoritmos genéticos
 
 
-Autores: Vitor Borgatto Appolinario, Tompson Laureano Pereira
 
 
-Filiação Acadêmica: Uninove
+Autores:
+Vitor Borgatto Appolinario, Tompson Laureano Pereira
 
 
-RESUMO
+
+
+Filiação Acadêmica:
+Uninove
+
+
+
+
+RESUMO:
+
 Neste trabalho explora-se a utilização de algoritmos genéticos em aplicação de entretenimento eletrônico. Com base na teoria da computação evolutiva(Algoritmos Genéticos - AGs), foi desenvolvido um algoritmo para resolver um problema de navegação autônoma de um agente, em um cenário virtual. Foram realizados testes para averiguar a viabilidade dos AGs na resolução desse problema.
 
 
-PALAVRAS-CHAVE: Algoritmos genéticos, Inteligência artificial, Jogos de computador.
+
+
+PALAVRAS-CHAVE:
+Algoritmos genéticos, Inteligência artificial, Jogos de computador.

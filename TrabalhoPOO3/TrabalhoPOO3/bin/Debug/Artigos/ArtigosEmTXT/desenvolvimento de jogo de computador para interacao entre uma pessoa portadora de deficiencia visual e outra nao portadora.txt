@@ -1,14 +1,28 @@
-﻿DESENVOLVIMENTO DE JOGO DE COMPUTADOR PARA INTERAçÃO ENTRE UMA PESSOA PORTADORA DE DEFICIÊNCIA VISUAL E OUTRA NÃO PORTADORA
+﻿Titulo:
+DESENVOLVIMENTO DE JOGO DE COMPUTADOR PARA INTERAçÃO ENTRE UMA PESSOA PORTADORA DE DEFICIÊNCIA VISUAL E OUTRA NÃO PORTADORA
 
 
-Autores: Pablo Ikdea, Mário Augusto Pazoti
 
 
-Filiação Acadêmica: FIPP, Universidade do Oeaste Paulista
+Autores:
+Pablo Ikdea, Mário Augusto Pazoti
+
+
+
+
+Filiação Acadêmica:
+FIPP, Universidade do Oeaste Paulista
+
+
+
 
 
 RESUMO:
+
 O presente trabalho apresenta o desenvolvimento de um jogo de computador que permite a interação entre dois usuários, sendo um destes portador de deficiência visual, que será guiado por meio de avisos sonoros. De acordo com o censo de 2000 do IBGE, cerca de 10% da população possui deficiência visual completa ou parcial. Não há disponíveis muitas ferramentas que permitam tal interação. Para o desenvolvimento deste jogo foram utilizadas ferramentas gratuitas como Blender3D e Audacity. O resultado do trabalho desenvolvido foi bastante satisfatório e ressalta o interesse e a necessidade de programas de entretenimento que permitam interação entre pessoas com limitações distintas. Vale ressaltar que um dos maiores desafios na implementação advém do fato de programadores não dispor da sensibilidade auditiva, como os portadores de deficiência visual dispõem, tornando relevante a participação destes durante todo o processo.
 
 
-PALAVRAS-CHAVE: deficiência visual, Jogo para computador, game engine.
+
+
+PALAVRAS-CHAVE:
+deficiência visual, Jogo para computador, game engine.

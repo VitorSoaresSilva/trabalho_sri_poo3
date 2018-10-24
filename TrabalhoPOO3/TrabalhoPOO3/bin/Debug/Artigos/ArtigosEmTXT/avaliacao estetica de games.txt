@@ -1,14 +1,27 @@
-﻿Avaliação Estética de Games
+﻿Titulo:
+Avaliação Estética de Games
 
 
-Autores: Diego Rocha, André Melo, Ewerton Souto, André Neves
 
 
-Filiação Acadêmica: Universidade Federal de Pernambuco, Faculdade Marista Recife
+Autores:
+Diego Rocha, André Melo, Ewerton Souto, André Neves
+
+
+
+
+Filiação Acadêmica:
+Universidade Federal de Pernambuco, Faculdade Marista Recife
+
+
 
 
 RESUMO:
+
 Existe um elemento nos games que atrai as pessoas e que faz com que elas sintam satisfação em jogar, ocorrendo por um processo semelhante ao da contemplação artística. É um conceito ligado ao de Estética no que tange sua propriedade de sensibilização de estímulos mentais. A identificação dessa satisfação deve ser observada com especial atenção pelos produtores de jogos, pois partindo dela  é  possível identificar formas de utilização de elementos que fazem com que o game se torne interessante e dessa forma fazer com que se padronize a síntese dessa satisfação para outros games.
 
 
-PALAVRAS-CHAVE: Avaliação estética, Game design.
+
+
+PALAVRAS-CHAVE:
+Avaliação estética, Game design.
